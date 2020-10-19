@@ -7,3 +7,5 @@ Blue
 This line has been added to demo git diff
 
 Let's add another quote
+
+This line as added from the remote site, simulating user contribution
