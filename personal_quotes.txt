@@ -2,4 +2,8 @@
 2. changed made in master branch
 
 From Master Branch
-BLUE
+Blue
+
+This line has been added to demo git diff
+
+Let's add another quote
